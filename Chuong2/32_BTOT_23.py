@@ -1,0 +1,5 @@
+print("Tien lanh cuoi ky tiet kiem tai ngan hang")
+a=int(input("Tien dau tu ban dau: "))
+b=int(input("So thang gui: "))
+c=float(input("Lai suat moi thang: "))
+print("Tien lanh cuoi ky:", float(a*(1+b*c)))
