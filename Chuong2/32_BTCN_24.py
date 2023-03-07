@@ -1,0 +1,7 @@
+a=int("a=")
+b=int(input("b="))
+c=int(input("c="))
+d=int(input("d="))
+n=float(a+b+c+d)
+print("Tong=", n, sep='')
+print("Trung binh cong=",float(n/4),sep='')
